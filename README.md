@@ -13,3 +13,14 @@
 * Eliminar hoja: Click derecho sobre la hoja -> ELiminar (NOTA: la hoja eliminada no se podra recuperar)
 * Reordenar las hojas: Seleccionamos la hoja y arrastramos a la posiccion que desemos moverlo
 * CTRL + G para guardar la informacion de las hojas
+
+### 5. Celdas, Columnas y Filas en Excel
+* Celda: almacena la informacion (Textos, Números y Fechas - Formulas y Funciones) del archivo del excel
+* Columnas tiene el indice del abecedario
+* Renglones o Filas tiene el indice de numeros
+* ALT + ENTER para mostrar en el siguiente reglon el resto del texto
+* Inicio -> Número: podemos cambiar el formato del dato de la celda
+* Inserta una formular: Doble click sobre la celda o en la barra de formular agregar =2+3
+* Flecha de direccion del teclado para navegar por celdas
+* CTRL + > (Flecha direccional) redirige a la ultima celda con dato y si precionamos nuevamente redirige a la ultima celda disponible de la hoja excel
+* CTRL + SHIFT + FLECHA DE DIRECCION seleccionar nuestras celdas y esto se llama concepto de rango

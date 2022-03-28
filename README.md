@@ -24,3 +24,8 @@
 * Flecha de direccion del teclado para navegar por celdas
 * CTRL + > (Flecha direccional) redirige a la ultima celda con dato y si precionamos nuevamente redirige a la ultima celda disponible de la hoja excel
 * CTRL + SHIFT + FLECHA DE DIRECCION seleccionar nuestras celdas y esto se llama concepto de rango
+
+### 6. Manejo de Rangos en Excel
+* Un rango es un conjunto de celdas, podemos agrupar de forma horizontal (renglon o fila) o vertical (columna)
+* CTRL + SHIFT + TECLA DIRECCIONALES para seleccinar rangos y podemos modificar el nombre del rango en el cuadro de nombre de A1 a lo que deseemos "PrimerRango", si desemos trabajar con rango creado ir al cuandro de nombres y seleccionar el rango
+* Formulas -> Asignar nombre (para asignar un nombre) o Formula -> Administrador de nombre (para ver los nombre de los rangos)
